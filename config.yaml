@@ -1,11 +1,11 @@
-baseurl: https://example.com
+baseurl: https://ngodingwarrior.netlify.app/
 languageCode: en-us
 theme: hugo-theme-stack
 paginate: 5
-title: Example Site
+title: Ngoding Warrior
 
 # Change it to your Disqus shortname before using
-disqusShortname: ngoding-warrior
+disqusShortname: ancha72
 
 # GA Tracking ID
 googleAnalytics:

@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Example Site</title>
-    <link>https://example.com/posts/</link>
-    <description>Recent content in Posts on Example Site</description>
+    <title>Posts on Ngoding Warrior</title>
+    <link>https://ngodingwarrior.netlify.app/posts/</link>
+    <description>Recent content in Posts on Ngoding Warrior</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 17 Oct 2021 15:56:35 +0000</lastBuildDate><atom:link href="https://example.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 17 Oct 2021 15:56:35 +0000</lastBuildDate><atom:link href="https://ngodingwarrior.netlify.app/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My First Post</title>
-      <link>https://example.com/posts/my-first-post/</link>
+      <link>https://ngodingwarrior.netlify.app/posts/my-first-post/</link>
       <pubDate>Sun, 17 Oct 2021 15:56:35 +0000</pubDate>
       
-      <guid>https://example.com/posts/my-first-post/</guid>
+      <guid>https://ngodingwarrior.netlify.app/posts/my-first-post/</guid>
       <description>Ini adalah post pertama saya yang di buat menggunakan huho.
 terima kasih!</description>
     </item>
