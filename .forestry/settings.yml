@@ -29,7 +29,7 @@ sections:
   label: Pages
   create: all
   match: "*"
-upload_dir: media/upload
+upload_dir: public/media
 public_path: https://ngodingwarrior.netlify.app/upload
 front_matter_path: ''
 use_front_matter_path: false
