@@ -2,7 +2,7 @@ baseurl: https://ngodingwarrior.netlify.app/
 languageCode: en-us
 theme: hugo-theme-stack
 paginate: 5
-title: Ngoding Warrior
+title: $ ~ /catatan -kec.il (Blog)
 
 # Change it to your Disqus shortname before using
 disqusShortname: ancha72
@@ -30,20 +30,20 @@ params:
     favicon:
 
     footer:
-        since: 2020
-        customText:
+        since: 2021
+        customText: 
 
     dateFormat:
         published: Jan 02, 2006
         lastUpdated: Jan 02, 2006 15:04 MST
 
     sidebar:
-        emoji: 🍥
-        subtitle: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+        emoji: 🍜
+        subtitle: //Sebuah tulisan dari blogger yg ga tau mesti nulis apa/ 😅.
         avatar:
             enabled: true
             local: true
-            src: img/avatar.png
+            src: img/avatar.jpg
 
     article:
         math: false

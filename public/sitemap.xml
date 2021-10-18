@@ -2,22 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://ngodingwarrior.netlify.app/posts/my-first-post/</loc>
-    <lastmod>2021-10-17T15:56:35+00:00</lastmod>
-  </url><url>
     <loc>https://ngodingwarrior.netlify.app/</loc>
-    <lastmod>2021-10-17T15:56:35+00:00</lastmod>
+    <lastmod>2021-10-18T02:45:51+00:00</lastmod>
   </url><url>
-    <loc>https://ngodingwarrior.netlify.app/posts/</loc>
-    <lastmod>2021-10-17T15:56:35+00:00</lastmod>
+    <loc>https://ngodingwarrior.netlify.app/p/hugo-android-via-termux-ngeblog-pakai-text-editor/</loc>
+    <lastmod>2021-10-18T02:45:51+00:00</lastmod>
+  </url><url>
+    <loc>https://ngodingwarrior.netlify.app/post/</loc>
+    <lastmod>2021-10-18T02:45:51+00:00</lastmod>
   </url><url>
     <loc>https://ngodingwarrior.netlify.app/categories/</loc>
     <lastmod>2020-09-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ngodingwarrior.netlify.app/p/test-chinese/</loc>
-    <lastmod>2020-09-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ngodingwarrior.netlify.app/post/</loc>
     <lastmod>2020-09-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ngodingwarrior.netlify.app/categories/test/</loc>

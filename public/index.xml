@@ -1,12 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>Ngoding Warrior</title>
+        <title>$ ~ /catatan -kec.il (Blog)</title>
         <link>https://ngodingwarrior.netlify.app/</link>
-        <description>Recent content on Ngoding Warrior</description>
+        <description>Recent content on $ ~ /catatan -kec.il (Blog)</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Sun, 17 Oct 2021 15:56:35 +0000</lastBuildDate><atom:link href="https://ngodingwarrior.netlify.app/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Mon, 18 Oct 2021 02:45:51 +0000</lastBuildDate><atom:link href="https://ngodingwarrior.netlify.app/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Hugo Android via Termux (Ngeblog pakai Text-Editor)</title>
+        <link>https://ngodingwarrior.netlify.app/p/hugo-android-via-termux-ngeblog-pakai-text-editor/</link>
+        <pubDate>Mon, 18 Oct 2021 02:45:51 +0000</pubDate>
+        
+        <guid>https://ngodingwarrior.netlify.app/p/hugo-android-via-termux-ngeblog-pakai-text-editor/</guid>
+        <description></description>
+        </item>
+        <item>
         <title>Chinese Test</title>
         <link>https://ngodingwarrior.netlify.app/p/test-chinese/</link>
         <pubDate>Wed, 09 Sep 2020 00:00:00 +0000</pubDate>
